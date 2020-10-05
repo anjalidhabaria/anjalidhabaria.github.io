@@ -1,35 +1,6 @@
-## Portfolio
+## About
 
 ---
+I am a Master of Science student in Electrical and Computer Engineering at the Georgia Institute of Technology. I received my BS in Computational Engineering from The University of Texas at Austin in 2019.
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+My research interests include computer vision, localization and mapping, and 3D perception with a specific interest in autonomous driving applications. For more information, see my [CV](/pdf/Resume_Anjali_Dhabaria.pdf)
