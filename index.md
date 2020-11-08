@@ -26,16 +26,16 @@ Worked on developing APIs and improving platform to allow providers, facilities 
 
 
 ### Real-time Scene Understanding using ENet:
-Implemented ENet architecture for semantic segmentation, instance segmentation and depth estimation tasks in parallel, reducing memory footprint. Improved computational time to 21 fps for real-time efficient.
+Implemented ENet architecture for semantic segmentation, instance segmentation and depth estimation tasks in parallel, reducing memory footprint. Improved computational time to 21 fps for real-time efficient. <br>
 <a href="#" class="image featured"><img src="/images/semantic.png" alt="" style="width:500px;height:300px;"/></a>
 
 ### Visual Simultaneous Localization and Mapping:
-Developed Extended Kalman filter-based robot and landmark localization and mapping system using monocular camera with 6 degree of freedom. Implemented Fast VBoW for loop closure.
+Developed Extended Kalman filter-based robot and landmark localization and mapping system using monocular camera with 6 degree of freedom. Implemented Fast VBoW for loop closure.<br>
 <a href="#" class="image featured"><img src="/images/vslam.png" alt="" style="width:500px;height:300px;"/></a>
 
 ### Style Transfer:
-Developed algorithm that transfers styles from a bank of style images to different objects recognized and segmented in input video using Mask RCNN.
+Developed algorithm that transfers styles from a bank of style images to different objects recognized and segmented in input video using Mask RCNN.<br>
 <a href="#" class="image featured"><img src="/images/style.png" alt="" style="width:500px;height:300px;"/></a>
 
 ### Leader-based SLAM for search and rescue:
-Implemented software stack for multi-agents robots to search through post-disaster environment to build a map using Voronoi regions. 
+Implemented software stack for multi-agents robots to search through post-disaster environment to build a map using Voronoi regions. <br>
