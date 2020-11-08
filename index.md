@@ -13,8 +13,8 @@ In terms of experience, I have recently completed Mapping and Localization Softw
 ### Mapping and Localization Software Engineer Co-op, Torc Robotics
 <div style="text-align: justify"> 
 Worked on 3D reconstruction and mapping using point clouds from LiDAR. <br><br> </div>
-<a href="#" class="image featured"><img src="/images/octree.png" alt="" style="width:500px;height:300px;"/></a>
-<a href="#" class="image featured"><img src="/images/torc.png" alt="" style="width:500px;height:300px;"/></a>
+<a href="#" class="image featured"><img src="/images/octree.png" alt="" style="width:300px;height:100px;"/></a>
+<a href="#" class="image featured"><img src="/images/torc.png" alt="" style="width:400px;height:200px;"/></a>
 
 ### Associate Software Engineer, Optum
 
