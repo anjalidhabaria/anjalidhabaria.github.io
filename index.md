@@ -17,7 +17,8 @@ Worked on 3D reconstruction and mapping using point clouds from LiDAR. Researche
 <!-- <a href="#" class="image featured"><img src="/images/torc.png" alt="" style="width:500px;height:300px;"/></a> -->
 
 ### Associate Software Engineer, Optum
-Worked on developing APIs and improving platform to allow providers, facilities and payers to manage the claim with lifecycle following Agile Scrum methodologies.
+<div style="text-align: justify"> 
+Worked on developing APIs and improving platform to allow providers, facilities and payers to manage the claim with lifecycle following Agile Scrum methodologies.</div>
 <!-- <a href="#" class="image featured"><img src="/images/optum.png" alt="" style="width:500px;height:300px;"/></a> -->
 
 ## Projects
