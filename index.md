@@ -18,7 +18,7 @@ Worked on 3D reconstruction and mapping using point clouds from LiDAR. <br><br> 
 
 ### Associate Software Engineer, Optum
 
-<a href="#" class="image featured"><img src="/images/optum.png" alt="" style="width:500px;height:300px;"/></a>
+<a href="#" class="image featured"><img src="/images/optum.png" alt="" style="width:400px;height:200px;"/></a>
 
 ## Projects
 ---
