@@ -3,7 +3,7 @@ logo: "/images/20201005_142002.jpg?raw=true" # your photo (or logo) here
 description: <br> <br>
   <a href="https://www.linkedin.com/in/anjali-dhabaria/">LinkedIn Page</a> <br>
   <a href="/pdf/Resume_Anjali_Dhabaria.pdf">Resume</a> <br>
-  <a href="adhabaria3@gatech.edu">Email</a> <br>
+  # <a href="adhabaria3@gatech.edu">Email</a> <br>
   <a href="https://github.com/anjalidhabaria">Github</a> <br>
   
 theme: jekyll-theme-minimal
