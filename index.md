@@ -29,11 +29,14 @@ Worked on 3D reconstruction and mapping using point clouds from LiDAR. <br><br> 
 
 ### Real-time Scene Understanding using ENet:
 
+<a href="#" class="image featured"><img src="/images/semantic.png" alt="" style="width:500px;height:300px;"/></a>
 
 ### Visual Simultaneous Localization and Mapping:
 
+<a href="#" class="image featured"><img src="/images/vslam.png" alt="" style="width:500px;height:300px;"/></a>
 
 ### Style Transfer:
 
+<a href="#" class="image featured"><img src="/images/style.png" alt="" style="width:500px;height:300px;"/></a>
 
 ### Leader-based SLAM for search and rescue:
