@@ -22,10 +22,7 @@ Worked on developing APIs and improving platform to allow providers, facilities 
 
 ## Projects
 ---
-### Robotics Perception and Learning Lab:
-
-
-### Data Augmentation using Reinforcement Learning:
+<!-- ### Data Augmentation using Reinforcement Learning: -->
 
 
 ### Real-time Scene Understanding using ENet:
