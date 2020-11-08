@@ -12,18 +12,17 @@ In terms of experience, I have recently completed Mapping and Localization Softw
 
 ### Mapping and Localization Software Engineer Co-op, Torc Robotics
 <div style="text-align: justify"> 
-Worked on 3D reconstruction and mapping using point clouds from LiDAR. <br><br> </div>
+Worked on 3D reconstruction and mapping using point clouds from LiDAR. Researched through effective representation of massive 3D point clouds, geospatial data and LiDAR data for developing 3D LiDAR base maps for autonomous trucks. Integrated the 3D maps with the planning and mapping software stack.<br><br> </div>
 <a href="#" class="image featured"><img src="/images/octree.png" alt="" style="width:500px;height:300px;"/></a>
 <!-- <a href="#" class="image featured"><img src="/images/torc.png" alt="" style="width:500px;height:300px;"/></a> -->
 
 ### Associate Software Engineer, Optum
-
+Worked on developing APIs and improving platform to allow providers, facilities and payers to manage the claim with lifecycle following Agile Scrum methodologies.
 <!-- <a href="#" class="image featured"><img src="/images/optum.png" alt="" style="width:500px;height:300px;"/></a> -->
 
 ## Projects
 ---
 ### Robotics Perception and Learning Lab:
-
 
 
 ### Data Augmentation using Reinforcement Learning:
