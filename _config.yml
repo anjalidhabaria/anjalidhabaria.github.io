@@ -1,6 +1,6 @@
 title: Anjali Dhabaria # your name (or website title) here
 logo: "/images/20201005_142002.jpg?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+description: 
   <a href="https://www.linkedin.com/in/anjali-dhabaria/">View My LinkedIn Page</a> 
   
 theme: jekyll-theme-minimal
