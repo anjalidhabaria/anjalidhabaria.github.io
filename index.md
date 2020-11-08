@@ -10,27 +10,27 @@ For more information, see my [CV](/pdf/Resume_Anjali_Dhabaria.pdf)
 ## Experience
 ---
 
-# Mapping and Localization Software Engineer Co-op, Torc Robotics
+### Mapping and Localization Software Engineer Co-op, Torc Robotics
 
-# Associate Software Engineer, Optum
+### Associate Software Engineer, Optum
 
 
 ## Projects
 ---
-Robotics Perception and Learning Lab:
+### Robotics Perception and Learning Lab:
 
 
 
-Data Augmentation using Reinforcement Learning:
+### Data Augmentation using Reinforcement Learning:
 
 
-Real-time Scene Understanding using ENet:
+### Real-time Scene Understanding using ENet:
 
 
-Visual Simultaneous Localization and Mapping:
+### Visual Simultaneous Localization and Mapping:
 
 
-Style Transfer:
+### Style Transfer:
 
 
-Leader-based SLAM for search and rescue:
+### Leader-based SLAM for search and rescue:
